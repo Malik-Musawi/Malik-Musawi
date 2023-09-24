@@ -16,6 +16,8 @@
 
 🏫 📫 Or through My Fanshawe email: <a href="mailto:m_al-musawi@fanshaweonline.ca">m_al-musawi@fanshaweonline.ca</a>
 
+👨‍💻🏆  I am currently doing the LeetCode challenge. So far, I have completed 30/100 easy and 1/100 medium problems. I am progressing to accomplish more in the following 100 days as a challenge.
+
 
 #### `./Malik --code`
 <!-- HTML5 -->
